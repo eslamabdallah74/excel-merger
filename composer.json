@@ -1,5 +1,5 @@
 {
-    "name": "eslam/excel-merger",
+    "name": "eslamabass/excel-merger",
     "description": "A simple PHP package to merge multiple Excel files into one.",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "Eslam Abdallah",
+            "name": "Eslam Abass",
             "email": "eslamabdallah301@gmail.com"
         }
     ],
