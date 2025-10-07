@@ -16,14 +16,14 @@ A simple and efficient PHP library for merging multiple Excel files into a singl
 ### Using Composer
 
 ```bash
-composer require eslam/excel-merger
+composer require eslamabass/excel-merger
 ```
 
 ### Manual Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/excel-merger.git
+git clone https://github.com/eslamabdallah74/excel-merger.git
 cd excel-merger
 ```
 
@@ -99,7 +99,7 @@ The Excel Merger takes multiple Excel files and combines them into a single work
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 8.0 or higher
 - PhpSpreadsheet library
 - Composer (for dependency management)
 
@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/excel-merger/issues) page
+1. Check the [Issues](https://github.com/eslamabdallah74/excel-merger/issues) page
 2. Create a new issue with detailed description
 3. Include sample files if possible
 
@@ -185,4 +185,4 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Eslam Abass](https://github.com/eslamabdallah74)
