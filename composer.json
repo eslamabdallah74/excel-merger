@@ -1,5 +1,8 @@
 {
     "name": "eslam/excel-merger",
+    "description": "A simple PHP package to merge multiple Excel files into one.",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Eslam\\ExcelMerger\\": "src/"
@@ -12,6 +15,9 @@
         }
     ],
     "require": {
+        "php": ">=8.0",
         "phpoffice/phpspreadsheet": "^5.1"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
