@@ -1,0 +1,24 @@
+# Dependencies
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output files
+tests/merged.xlsx
+tests/*.xlsx
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,17 @@
+{
+    "name": "eslam/excel-merger",
+    "autoload": {
+        "psr-4": {
+            "Eslam\\ExcelMerger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eslam Abdallah",
+            "email": "eslamabdallah301@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.1"
+    }
+}
